@@ -8,3 +8,6 @@ I am  enthusiastic Web Developer. I am currently persuing my Bachelor's degree i
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pujasharma5431&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=pujasharma5431&theme=radical&show_icons=true)
