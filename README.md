@@ -8,6 +8,17 @@ I am  enthusiastic Web Developer. I am currently persuing my Bachelor's degree i
 
 
 
+**Connect with me :**
+
+<a href="https://www.linkedin.com/in/puja-sharma-1aba761ab//" target="_blank">
+  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/home" target="_blank">
+  <img align="left" alt="Arjun | Twitter" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/twitter.webp" />
+</a><br/>
+
+
+
 
 
 
