@@ -2,7 +2,7 @@
 I am  enthusiastic Web Developer. I am currently persuing my Bachelor's degree in Computer Science at Tribhuvan University.
 
 - 🔭 I’m currently working on Something Exciting.
-- 🌱 I’m currently learning JavaScript and React.
+- 🌱 I’m currently learning JavaScript and React JS.
 - 💬 Ask me about (https://www.github.com/pujasharma5431/issues)
 - 📫 How to reach me: pujasharma5431@gmail.com.
 
