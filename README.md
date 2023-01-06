@@ -1,5 +1,5 @@
 ### Hi there 👋It's me Puja Sharma.
-I am  enthusiastic Web Developer. I am currently persuing my Bachelor's degree in Computer Science at Tribhuvan University.
+I am  enthusiastic QA Engineer. I am currently pursuing my Bachelor's degree in Computer Science at Tribhuvan University.
 
 - 🔭 I’m currently working on Something Exciting.
 - 🌱 I’m currently learning JavaScript and React JS.
