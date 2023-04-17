@@ -1,8 +1,8 @@
 ### Hi there 👋It's me Puja Sharma.
 I am  enthusiastic QA Engineer. I am currently pursuing my Bachelor's degree in Computer Science at Tribhuvan University.
 
-- 🔭 I’m currently working on Something Exciting.
-- 🌱 I’m currently learning JavaScript and React JS.
+- 🔭 I’m currently working on Yarsa Lab as a QA Trainee.
+- 🌱 I’m currently learning JavaScript and JEST.
 - 💬 Ask me about (https://www.github.com/pujasharma5431/issues)
 - 📫 How to reach me: pujasharma5431@gmail.com.
 
